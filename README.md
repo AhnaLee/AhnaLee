@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🌱 I’m currently learning IT at WINTEC.
+- 🤔 I’m currently looking for help with C#, Data Structure and Algorithms.
+- 😄 I'm interested in Web Development (HTML,CSS and Javascripts etc.)
+- ⚡ Fun fact: I love coding but it drives me crazy at the same time.
+- 👯 I’m looking to collaborate with you.
+
 
 <!--
 **AhnaLee/AhnaLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
